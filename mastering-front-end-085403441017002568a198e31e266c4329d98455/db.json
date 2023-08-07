@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "likes": 16
+    },
+    {
+      "title": "Lorem ipsum dolor sit amet dolor sit amet",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "author": "Samia",
+      "id": "2",
+      "likes": 17
+    },
+    {
+      "title": "Lorem ipsum dolor",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti!Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "author": "Denis",
+      "id": "3",
+      "likes": 108
+    },
+    {
+      "title": "",
+      "content": "",
+      "author": "user42",
+      "id": "FL51YUU",
+      "likes": 1
+    },
+    {
+      "author": "user42",
+      "title": "",
+      "content": "",
+      "likes": 0,
+      "id": "MfN-fE5"
+    }
+  ],
+  "user": [
+    {
+      "pseudo": "user42",
+      "likes": 9,
+      "age": 30,
+      "id": 1
+    }
+  ]
+}
